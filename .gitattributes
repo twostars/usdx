@@ -1156,6 +1156,7 @@ src/lib/ffmpeg-2.2/avcodec.pas -text
 src/lib/ffmpeg-2.2/avformat.pas -text
 src/lib/ffmpeg-2.2/avio.pas -text
 src/lib/ffmpeg-2.2/avutil.pas -text
+src/lib/ffmpeg-2.2/ff_api-defines.inc -text
 src/lib/ffmpeg-2.2/libavcodec/audioconvert.pas -text
 src/lib/ffmpeg-2.2/libavutil/buffer.pas -text
 src/lib/ffmpeg-2.2/libavutil/cpu.pas -text
