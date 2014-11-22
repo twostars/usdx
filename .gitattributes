@@ -943,11 +943,6 @@ src/base/UFilesystem.pas -text
 src/base/UPathUtils.pas -text
 src/base/UTextEncoding.pas -text
 src/base/UUnicodeUtils.pas -text
-src/encoding/Auto.inc -text
-src/encoding/CP1250.inc -text
-src/encoding/CP1252.inc -text
-src/encoding/Locale.inc -text
-src/encoding/UTF8.inc -text
 src/lib/JEDI-SDL/OpenGL-Set8087CW.patch -text
 src/lib/JEDI-SDL/jedi-sdl-64bit.patch -text
 src/lib/JEDI-SDL/moduleloader-libc.patch -text
