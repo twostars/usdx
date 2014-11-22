@@ -959,7 +959,6 @@ src/lib/TntUnicodeControls/TntWideStrUtils.pas -text
 src/lib/TntUnicodeControls/TntWideStrings.pas -text
 src/lib/TntUnicodeControls/TntWindows.pas -text
 src/lib/bass/bass.chm -text
-src/lib/ctypes/ctypes.pas -text
 src/lib/ffmpeg-0.7/test.h -text
 src/lib/ffmpeg-0.7/test.pp -text
 src/lib/ffmpeg-2.2/ff_api-defines.inc -text
