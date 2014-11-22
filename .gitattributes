@@ -1139,7 +1139,6 @@ src/menu/UMenuBackgroundFade.pas -text
 src/menu/UMenuBackgroundNone.pas -text
 src/menu/UMenuBackgroundTexture.pas -text
 src/menu/UMenuBackgroundVideo.pas -text
-src/screens/UScreenPartyRounds.pas -text
 test/FFmpeg_Test6.pas -text
 test/TestPortAudioDevice.pas -text
 test/TestSignAlgorithm.pas -text
