@@ -961,7 +961,6 @@ src/lib/ffmpeg-0.7/test.pp -text
 src/lib/ffmpeg-2.2/ff_api-defines.inc -text
 src/lib/ffmpeg-2.4/ff_api-defines.inc -text
 src/lib/lib-info.txt -text
-src/lib/midi/MidiComp.dpk -text
 src/lib/midi/MidiComp.res -text
 src/lib/midi/demo/MidiTest.dfm -text
 src/lib/midi/demo/Project1.res -text
