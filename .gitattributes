@@ -68,7 +68,6 @@ game/covers/Artist/ArtistW.jpg -text
 game/covers/Artist/ArtistX.jpg -text
 game/covers/Artist/ArtistY.jpg -text
 game/covers/Artist/ArtistZ.jpg -text
-game/covers/Covers.ini -text
 game/covers/Creative[!!-~]Commons.jpg -text
 game/covers/Language/Austrian.jpg -text
 game/covers/Language/Bavarian.jpg -text
@@ -133,31 +132,13 @@ game/covers/Title/TitleZ.jpg -text
 game/covers/Title/Titlea.jpg -text
 game/covers/Title/Titleb.jpg -text
 game/covers/Title/Titlec.jpg -text
-game/fonts/DejaVu/AUTHORS -text
 game/fonts/DejaVu/DejaVuSans-Bold.ttf -text
 game/fonts/DejaVu/DejaVuSans.ttf -text
-game/fonts/DejaVu/LICENSE -text
-game/fonts/DejaVu/README -text
-game/fonts/FreeSans/AUTHORS -text
-game/fonts/FreeSans/COPYING -text
-game/fonts/FreeSans/CREDITS -text
 game/fonts/FreeSans/FreeSans.ttf -text
 game/fonts/FreeSans/FreeSansBold.ttf -text
-game/fonts/FreeSans/README -text
-game/fonts/fonts.ini -text
-game/fonts/wqy-microhei/AUTHORS.txt -text
-game/fonts/wqy-microhei/LICENSE_Apache2.txt -text
-game/fonts/wqy-microhei/LICENSE_GPLv3.txt -text
-game/fonts/wqy-microhei/README.txt -text
 game/fonts/wqy-microhei/wqy-microhei.ttc -text
-game/languages/Gaelic.ini -text
-game/plugins/5000points.usdx -text
 game/plugins/PluginDescription.odt -text svneol=unset#unset
-game/plugins/blind.usdx -text
-game/plugins/duel.usdx -text
-game/plugins/holdtheline.usdx -text
 game/plugins/hooks.txt -text svneol=native#unset
-game/plugins/teamduel.usdx -text
 game/resources/credits/credits_v5_bg.png -text
 game/resources/credits/credits_v5_overlay.png -text
 game/resources/credits/intro-l-01.png -text
@@ -193,7 +174,6 @@ game/resources/icons/ultrastardx-icon.png -text
 game/sounds/Applause.mp3 -text
 game/sounds/Common[!!-~]back.mp3 -text
 game/sounds/Common[!!-~]start.mp3 -text
-game/sounds/background[!!-~]track[!!-~]license.txt -text
 game/sounds/background[!!-~]track.mp3 -text
 game/sounds/credits-outro-tune.mp3 -text
 game/sounds/dismissed.mp3 -text
@@ -203,9 +183,6 @@ game/sounds/rimshot022b.mp3 -text
 game/sounds/select[!!-~]music[!!-~]change[!!-~]music[!!-~]50.mp3 -text
 game/sounds/select[!!-~]music[!!-~]change[!!-~]music.mp3 -text
 game/sounds/wome-credits-tune.mp3 -text
-game/themes/Candy.ini -text
-game/themes/Candy/Clouds[!!-~]static.ini -text
-game/themes/Candy/Clouds.ini -text
 game/themes/Candy/Party1BG.png -text
 game/themes/Candy/Party1Bar.png -text
 game/themes/Candy/SongMenuButton.png -text
@@ -450,7 +427,6 @@ game/themes/Classic/\[stat\]detailBG1.png -text
 game/themes/Classic/\[stat\]mainBG1.png -text
 game/themes/Classic/\[stat\]mainBG2.png -text
 game/themes/Classic/\[stat\]mainBG3.png -text
-game/themes/Deluxe/Ribbon.ini -text
 game/themes/Deluxe/\[bg-load\]blue.jpg -text
 game/themes/Deluxe/\[bg-load\]fall.jpg -text
 game/themes/Deluxe/\[bg-load\]summer.jpg -text svneol=unset#unset
@@ -590,9 +566,6 @@ game/themes/Deluxe/\[stat\]detailBG1.png -text
 game/themes/Deluxe/\[stat\]mainBG1.png -text
 game/themes/Deluxe/\[stat\]mainBG2.png -text
 game/themes/Deluxe/\[stat\]mainBG3.png -text
-game/themes/Temptation.ini -text
-game/themes/Temptation/Temptation[!!-~](16-9).ini -text
-game/themes/Temptation/Temptation[!!-~](4-3).ini -text
 game/themes/Temptation/\[Level\]buttoneasy.png -text
 game/themes/Temptation/\[Level\]buttonhard.png -text
 game/themes/Temptation/\[Level\]buttonmedium.png -text
@@ -748,13 +721,6 @@ game/themes/Temptation/\[stat\]detailBG1.png -text
 game/themes/Temptation/\[stat\]mainBG1.png -text
 game/themes/Temptation/\[stat\]mainBG2.png -text
 game/themes/Temptation/\[stat\]mainBG3.png -text
-game/themes/Verdure.ini -text
-game/themes/Verdure/Drippin.ini -text
-game/themes/Verdure/Drippin_Low.ini -text
-game/themes/Verdure/Drippin_Static.ini -text
-game/themes/Verdure/Springtime.ini -text
-game/themes/Verdure/Springtime_Low.ini -text
-game/themes/Verdure/Springtime_Static.ini -text
 game/themes/Verdure/\[bg-video\]drippin.avi -text
 game/themes/Verdure/\[bg-video\]drippin_low.avi -text
 game/themes/Verdure/\[bg-video\]springtime.avi -text
