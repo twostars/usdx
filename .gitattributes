@@ -939,10 +939,7 @@ res/rccompile-fpc.bat -text
 res/ultrastardx.exe.manifest -text
 res/ultrastardx.rc -text
 res/ultrastardx.res -text
-src/base/UBeatTimer.pas -text
 src/base/UFilesystem.pas -text
-src/base/UNote.pas -text
-src/base/UPath.pas -text
 src/base/UPathUtils.pas -text
 src/base/UTextEncoding.pas -text
 src/base/UUnicodeUtils.pas -text
