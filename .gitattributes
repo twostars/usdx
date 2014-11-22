@@ -1132,16 +1132,6 @@ src/lib/midi/demo/Project1.res -text
 src/lib/pcre/pcre.pas -text
 src/lib/projectM/cwrapper/projectM-cwrapper.sln -text
 src/lib/projectM/cwrapper/projectM-cwrapper.vcproj -text
-src/lua/UHookableEvent.pas -text
-src/lua/ULuaCore.pas -text
-src/lua/ULuaGl.pas -text
-src/lua/ULuaLog.pas -text
-src/lua/ULuaParty.pas -text
-src/lua/ULuaScreenSing.pas -text
-src/lua/ULuaTextGL.pas -text
-src/lua/ULuaTexture.pas -text
-src/lua/ULuaUsdx.pas -text
-src/lua/ULuaUtils.pas -text
 src/macosx/Info.plist -text
 src/menu/UMenuBackground.pas -text
 src/menu/UMenuBackgroundColor.pas -text
