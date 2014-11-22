@@ -963,15 +963,6 @@ src/lib/ffmpeg-0.7/test.h -text
 src/lib/ffmpeg-0.7/test.pp -text
 src/lib/ffmpeg-2.2/ff_api-defines.inc -text
 src/lib/ffmpeg-2.4/ff_api-defines.inc -text
-src/lib/freetype/demo/engine-test.bdsproj -text
-src/lib/freetype/demo/engine-test.lpi -text
-src/lib/freetype/demo/nehe/lesson43.bdsproj -text
-src/lib/freetype/ftconfig.inc -text
-src/lib/freetype/ftglyph.inc -text
-src/lib/freetype/ftimage.inc -text
-src/lib/freetype/ftoutln.inc -text
-src/lib/freetype/ftstroke.inc -text
-src/lib/freetype/fttypes.inc -text
 src/lib/lib-info.txt -text
 src/lib/midi/MidiComp.dpk -text
 src/lib/midi/MidiComp.res -text
