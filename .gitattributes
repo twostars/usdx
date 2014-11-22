@@ -964,7 +964,6 @@ src/lib/lib-info.txt -text
 src/lib/midi/MidiComp.res -text
 src/lib/midi/demo/MidiTest.dfm -text
 src/lib/midi/demo/Project1.res -text
-src/lib/pcre/pcre.pas -text
 src/lib/projectM/cwrapper/projectM-cwrapper.sln -text
 src/lib/projectM/cwrapper/projectM-cwrapper.vcproj -text
 src/macosx/Info.plist -text
