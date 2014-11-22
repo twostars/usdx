@@ -943,9 +943,6 @@ src/base/UFilesystem.pas -text
 src/base/UPathUtils.pas -text
 src/base/UTextEncoding.pas -text
 src/base/UUnicodeUtils.pas -text
-src/lib/JEDI-SDL/OpenGL-Set8087CW.patch -text
-src/lib/JEDI-SDL/jedi-sdl-64bit.patch -text
-src/lib/JEDI-SDL/moduleloader-libc.patch -text
 src/lib/Lua/ULua.pas -text
 src/lib/SQLite/example/Sunset.jpg -text
 src/lib/SQLite/example/TestSqlite.res -text
